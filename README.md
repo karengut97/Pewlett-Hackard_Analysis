@@ -18,7 +18,7 @@ Considering Pewlett-Hackard's total employee count is 300,024 but it is not enou
     <img src="images/Total_Employees.png" width="400" height="150">
     <p>
 
-* As it stands today,  **30%** of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1995.
+* As it stands today,  **30%** of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1955.
 
   <img src="images/Retirement_Eligible_Total.png" width="300" height="150"/> 
 
@@ -28,10 +28,12 @@ Considering Pewlett-Hackard's total employee count is 300,024 but it is not enou
       
 * Senior level jobs (Senior Engineer and Senior Staff) make up **64%** of the entire retirement eligible group.
       
-  <img src="images/Retirements_By_TItle.png" width="200" height="350"/>     
+  <img src="images/Retirements_By_TItle.png" width="150" height="200"/>     
       
-* 
+* For the potential mentees, these same two senior level jobs (Senior Engineer and Senior Staff) make up **45%** of the entire mentee eligible group.
 
+   <img src="images/Mentee_Summary.png" width="150" height="200"/>   
+        
 ## Summary: 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
@@ -40,26 +42,6 @@ Provide high-level responses to the following questions, then provide two additi
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 Summary:
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
-
-
-![Pyber_Summary_DataFrame.png](analysis/Pyber_Summary_DataFrame.png)
-![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)

@@ -1,7 +1,7 @@
 # Pewlett-Hackard_Analysis
 
 ## Overview
-As Pewlett-Packard prepares for their future, the reality of retirements is becoming a significant concern. An analysis needs to be done to determine the the business impacts of employees retiring.
+As Pewlett-Hackard prepares for their future, the reality of retirements is becoming a significant concern. An analysis needs to be done to determine the business impacts of employees retiring.
 
 * Identify the departments at the highest risk.
 * Determine how many employees are retirement eligible.
@@ -15,7 +15,7 @@ Pewlett-Hackard's total employee count is 300,024. However, it is not enough to 
   
   <img src="images/Total_Employees.png" width="400" height="150"/>  
 
-* As it stands today,  **30%** of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1955.
+* As it stands today,  **30%** of Pewlett-Hackard's employees are retirement eligible based upon employees born between January 1952 through month end December 1955.
 
   <img src="images/Retirement_Eligible_Total.png" width="300" height="150"/> 
 
@@ -45,5 +45,3 @@ While some current employees have been identified as suitable mentees, the gap r
 1. It will be prudent to continue to reach into the employee population and identify additional mentees, based on skill set and not birth year. 
 2. A hiring task force could be formed to launch a hiring campaign and provide a pipeline for the company.
 3. An incentive plan for retirement eligible employees to mentor others could offset a massive exit and impact to the business.
-        
-  

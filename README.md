@@ -14,9 +14,22 @@ As Pewlett-Packard prepares for their future, the reality of retirements is beco
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 Considering Pewlett-Hackard's total employee count is 300,024 but it is not enough to overcome employees retiring. 
+    <p align="center">
+    <img src="images/Total_Employees.png" width="400" height="150">
+    <p>
+
 * As it stands today,  30% of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1995.
+
+  <img src="images/Retirement_Eligible_Total.png" width="300" height="150"/> 
+
 * Employees born in 1965 have been identified as the ideal group for mentoring/knowledge transfer. This group represents 0.05% of the employee population.
+      
+  <img src="images/Mentee_Totals.png" width="300" height="150"/> 
+      
 * Senior level jobs (Senior Engineer and Senior Staff) make up 64% of the entire retirement eligible group.
+      
+  <img src="images/Retirements_By_Title.png" width="300" height="150"/>     
+      
 * 
 
 ## Summary: 

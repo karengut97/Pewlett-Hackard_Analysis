@@ -42,7 +42,7 @@ As stated above, the current count of retirement eligible employees is **90,398*
                 
 While some current employees have been identified as suitable mentees, the gap remains significant. The follow table demonstrates remaining needs for each job title function:
         
-<img src="images/Retirements_By_TItle.png" width="150" height="200"/> <img src="images/Mentee_Summary.png" width="150" height="200"/>  <img src="images/Employee_Gap.png" width="200" height="210"/>
+<img src="images/Retirements_By_TItle.png" width="150" height="200"/> <img src="images/Mentee_Summary.png" width="150" height="200"/>  <img src="images/Employee_Gap_Summary.png" width="150" height="200"/>
 
 
 Summary:

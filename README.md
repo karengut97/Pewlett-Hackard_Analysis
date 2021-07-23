@@ -18,17 +18,17 @@ Considering Pewlett-Hackard's total employee count is 300,024 but it is not enou
     <img src="images/Total_Employees.png" width="400" height="150">
     <p>
 
-* As it stands today,  30% of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1995.
+* As it stands today,  **30%** of Pewlett-Hackard's employees are retirement eligible based upon employees born between January, 1952 through month end December, 1995.
 
   <img src="images/Retirement_Eligible_Total.png" width="300" height="150"/> 
 
-* Employees born in 1965 have been identified as the ideal group for mentoring/knowledge transfer. This group represents 0.05% of the employee population.
+* Employees born in 1965 have been identified as the ideal group for mentoring/knowledge transfer. This group represents **0.05%** of the employee population, creating a potential **29.5%** shortfall.
       
   <img src="images/Mentee_Totals.png" width="300" height="150"/> 
       
-* Senior level jobs (Senior Engineer and Senior Staff) make up 64% of the entire retirement eligible group.
+* Senior level jobs (Senior Engineer and Senior Staff) make up **64%** of the entire retirement eligible group.
       
-  <img src="images/Retirements_By_Title.png" width="300" height="150"/>     
+  <img src="images/Retirements_By_TItle.png" width="200" height="350"/>     
       
 * 
 

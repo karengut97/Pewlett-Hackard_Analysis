@@ -36,10 +36,9 @@ Considering Pewlett-Hackard's total employee count is 300,024 but it is not enou
         
 ## Summary: 
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
-1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-        PH will need to hire 88,847 employees to fill the gap should all retirement eligible employees actually decide to retire.
+PH will need to hire 88,847 employees to fill the gap should all retirement eligible employees actually decide to retire. While some current employees have been identified as suitable mentees, the gap remains significant. The follow table demonstrates remaining needs for each job title function:
+        
+    <img src="images/Employee_Gap.png" width="200" height="210"/>
         
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 

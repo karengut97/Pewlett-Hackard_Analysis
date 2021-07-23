@@ -36,11 +36,13 @@ Considering Pewlett-Hackard's total employee count is 300,024 but it is not enou
         
 ## Summary: 
 
-PH will need to hire 88,847 employees to fill the gap should all retirement eligible employees actually decide to retire. While some current employees have been identified as suitable mentees, the gap remains significant. The follow table demonstrates remaining needs for each job title function:
+As stated above, the current count of retirement eligible employees is **90,398**. Pewlett-Hackard will need to hire 88,847 employees to fill the gap should all retirement eligible employees actually decide to retire. The current profile for those employees is provided here:
         
-    <img src="images/Employee_Gap.png" width="200" height="210"/>
+   <img src="images/Retirements_By_TItle.png" width="150" height="200"/>  
+                
+While some current employees have been identified as suitable mentees, the gap remains significant. The follow table demonstrates remaining needs for each job title function:
         
-2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+<img src="images/Retirements_By_TItle.png" width="150" height="200"/> <img src="images/Mentee_Summary.png" width="150" height="200"/>  <img src="images/Employee_Gap.png" width="200" height="210"/>
 
 
 Summary:
